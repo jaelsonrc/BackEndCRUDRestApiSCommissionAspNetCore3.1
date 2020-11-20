@@ -23,6 +23,7 @@ Uma mini aplicação projetado para anotar comissões e gera código para consul
 <br/>
 Objetivo aqui é para fins de estudos com funcionalidades comum e resolvendo um problema real do dia a dia... 
 
-Obs: o codigo fonte dos aquivos que esta na pasta wwwroot estão no github: https://github.com/jaelsonrc/ReactJSFrontSCommission
+Obs: o codigo fonte dos aquivos que esta na pasta wwwroot estão no github: https://github.com/jaelsonrc/ReactJSFrontSCommission <br/>
+O banco de dado esta em memoria, mas pode ser configurado para qualquer outro banco de dados... <br/>
 
 Qualquer dúvida estou a disposição: jaelsonrc@ymail.com
