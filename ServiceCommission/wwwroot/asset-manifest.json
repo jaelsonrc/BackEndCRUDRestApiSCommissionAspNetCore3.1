@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "./static/js/main.b3ea74bf.chunk.js",
+    "main.js.map": "./static/js/main.b3ea74bf.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0f6afe03.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0f6afe03.js.map",
+    "static/css/2.08a81a33.chunk.css": "./static/css/2.08a81a33.chunk.css",
+    "static/js/2.85291599.chunk.js": "./static/js/2.85291599.chunk.js",
+    "static/js/2.85291599.chunk.js.map": "./static/js/2.85291599.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.3527ff283db1d1110ddf07fa5ee1a5dd.js": "./precache-manifest.3527ff283db1d1110ddf07fa5ee1a5dd.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.08a81a33.chunk.css.map": "./static/css/2.08a81a33.chunk.css.map",
+    "static/js/2.85291599.chunk.js.LICENSE.txt": "./static/js/2.85291599.chunk.js.LICENSE.txt",
+    "static/media/LogoFafa.png": "./static/media/LogoFafa.b258ec36.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f6afe03.js",
+    "static/css/2.08a81a33.chunk.css",
+    "static/js/2.85291599.chunk.js",
+    "static/js/main.b3ea74bf.chunk.js"
+  ]
+}
