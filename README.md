@@ -1,4 +1,4 @@
-<h1>Back End Asp Net 3.1 SCommission</h1>
+<h1>Backend Asp Net 3.1 SCommission</h1>
 
 Aplicação Rest Api com roteamento dos arquivos static do Front-End, desenvolvido em Asp Net Core 3.1 configurado para hospedagem compartilhada.
  
